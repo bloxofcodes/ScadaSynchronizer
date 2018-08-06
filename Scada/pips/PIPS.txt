@@ -1,0 +1,8 @@
+pip install virtualenv
+pip install virtualenvwrapper-win
+
+mkvirtualenv scadasync
+
+pip install pyrebase
+pip install pusher_push_notifications
+

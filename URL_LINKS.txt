@@ -29,3 +29,6 @@ https://www.studytonight.com/android/android-listview
 
 http://camposha.info/source/android-firebase-listview-multiple-fields-saveretrieve-then-show
 https://help.github.com/articles/adding-a-remote/
+https://stackoverflow.com/questions/8005319/how-to-highlight-the-row-of-the-custom-list-view-when-focus-comes-on-that-row
+https://android--code.blogspot.com/2015/08/android-listview-selection-color.html
+https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui
